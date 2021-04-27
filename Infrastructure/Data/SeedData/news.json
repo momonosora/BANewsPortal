@@ -1,0 +1,20 @@
+[
+  {
+    "Title": "google",
+    "Text": "Text1",
+    "Image": "image",
+    "NewsCatId": 1
+  },
+  {
+    "Title": "biden",
+    "Text": "Text2",
+    "Image": "pic2",
+    "NewsCatId": 2
+  },
+  {
+    "Title": "iran",
+    "Text": "Text3",
+    "Image": "pic",
+    "NewsCatId": 2
+  }
+]

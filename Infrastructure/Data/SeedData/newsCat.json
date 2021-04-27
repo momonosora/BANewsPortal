@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Coronavirus"
+  },
+  {
+    "Id": 2,
+    "Name": "Politics"
+  },
+  {
+    "Id": 3,
+    "Name": "Health"
+  },
+  {
+    "Id": 4,
+    "Name": "Sport"
+  },
+  {
+    "Id": 5,
+    "Name": "Entertainment"
+  }
+]
